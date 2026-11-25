@@ -1,0 +1,21 @@
+{
+    "format_version": 1,
+    "items": [
+        {
+            "id": "001",
+            "name": "Moscow-Spb",
+            "category": "bus",
+            "date": "20.11.2026",
+            "origin": "Moscow",
+            "destination": "Saint-Petesburg"
+        },
+        {
+            "id": "002",
+            "name": "Moscow-Spb2",
+            "category": "bus2",
+            "date": "20.11.2026",
+            "origin": "Moscow2",
+            "destination": "Saint-Petesburg2"
+        }
+    ]
+}
